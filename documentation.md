@@ -1,0 +1,5 @@
+- Prologue
+    - [Release Notes](/docs/{{version}}/releases)
+    - [Contribution Guide](/docs/{{version}}/contributions)
+- Setup
+    - [Installation](/docs/{{version}}/installation)
