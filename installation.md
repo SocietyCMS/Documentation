@@ -24,7 +24,7 @@ If you are setting up a Server, make sure that it meets these requirements:
 - MySql 5.5
 </div>
 
-In addition, it is highly recommended that you have ond of the following cache driver installed. By default, SocietyCMS will not use any caching.
+In addition, it is highly recommended that you have one of the following cache drivers installed. By default, SocietyCMS will not use any caching.
 <div class="content-list" markdown="1">
 - memcached
 - redis
